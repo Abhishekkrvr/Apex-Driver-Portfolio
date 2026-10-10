@@ -6,7 +6,6 @@
   <a href="https://apex-driver-portfolio.vercel.app/"><img alt="Live Preview" src="https://img.shields.io/badge/Live%20Preview-open-C8FF2E?style=for-the-badge&labelColor=0B0B0D" /></a>
 </p>
 
-**🔗 Live preview:** [https://apex-driver-portfolio.vercel.app/](https://apex-driver-portfolio.vercel.app/)
 
 <!-- Add a screenshot or GIF here, e.g. ![Apex preview](./public/preview.png) -->
 
