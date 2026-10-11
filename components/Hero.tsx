@@ -39,7 +39,7 @@ export default function Hero() {
           <button onClick={() => scrollToId("calendar")} className="border border-line px-6 py-3 rounded-full hover:border-accent transition">Race calendar</button>
         </div>
       </div>
-      <p className="absolute bottom-3 left-1/2 -translate-x-1/2 text-[10px] text-bone/30 tracking-widest uppercase">Fictional concept — not a real driver</p>
+      {/* <p className="absolute bottom-3 left-1/2 -translate-x-1/2 text-[10px] text-bone/30 tracking-widest uppercase">Fictional concept — not a real driver</p> */}
     </section>
   );
 }
